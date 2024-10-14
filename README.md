@@ -9,6 +9,9 @@
 ## 特性&功能
 1. 内置内容农场屏蔽，包括csdn、华x云、百度云智能、腾讯云开发者等seo网站，以及一些 stackoverflow 中文翻译站。
 
+> [!NOTE]  
+> 你可以在 [/docs/block_list.txt](/docs/block_list.txt)中查看完整的屏蔽名单。
+
 2. 点击`For Program`一键拉高 GitHub、Stackoverflow、v2ex、cnblog 权重，免去手打 site: 的麻烦。
 
 3. 一键搜索 v2ex 、 Raddit
@@ -114,6 +117,16 @@ pnpm build
 
 
 # 更新记录
-- 加快了启动速度 - 现在超级快
+- 加快了启动速度
 - 添加了移除搜索结果中的跟踪链接 data-ct*
 - 移除了文字阴影
+
+## Star History
+
+<a href="https://star-history.com/#KoriIku/luxirty-search&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=KoriIku/luxirty-search&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=KoriIku/luxirty-search&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=KoriIku/luxirty-search&type=Date" />
+ </picture>
+</a>
